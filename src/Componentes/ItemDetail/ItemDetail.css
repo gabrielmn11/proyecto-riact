@@ -1,0 +1,10 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+
+.item{
+display: grid;
+text-align: center;
+border-radius: 5px black solid;
+}

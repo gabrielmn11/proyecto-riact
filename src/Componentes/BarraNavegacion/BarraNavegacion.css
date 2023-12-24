@@ -9,3 +9,6 @@ li{
     margin: 10px 100px;
 cursor: pointer;
 }
+*{
+    text-decoration: none;
+}

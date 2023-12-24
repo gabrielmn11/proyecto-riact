@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+.items{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+}
