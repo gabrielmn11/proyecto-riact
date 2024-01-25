@@ -8,7 +8,9 @@ li{
     display: inline-block;
     margin: 10px 100px;
 cursor: pointer;
+
 }
 *{
+    box-shadow: none;
     text-decoration: none;
 }
