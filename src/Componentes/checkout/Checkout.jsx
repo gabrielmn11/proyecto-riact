@@ -52,7 +52,7 @@ const Checkout = () => {
         Promise.all(
             orden.items.map(async (productoOrden) => {
                 //Por cada producto obtengo una referencia y a partir de esa referencia obtengo el DOC: 
-                const productoRef = doc(db, "inventario", productoOrden.id);
+                const productoRef = doc(db, "Inventario", productoOrden.id);
                 const productoDoc = await getDoc(productoRef);
                 const stockActual = productoDoc.data().stock;
                 //recordemos, data() me permite obtener los datos del documento. 
