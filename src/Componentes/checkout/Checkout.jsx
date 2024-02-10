@@ -61,7 +61,7 @@ const Checkout = () => {
                     stock: stockActual - productoOrden.cantidad
                 })
 
-                //Modifico el stock y subo la info actualizada. 
+                
             })
         )
             //Guardamos en la base de datos la orden: 

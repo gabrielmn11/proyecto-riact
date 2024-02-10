@@ -6,6 +6,7 @@ Este es un proyecto de ecommerce básico que se utiliza para el curso de React e
 - Vite
 - React Router
 - Firebase
+- Font Awesome
 
 ## Funcionalidades
 - Ver una lista de productos disponibles
